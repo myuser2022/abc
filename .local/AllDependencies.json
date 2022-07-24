@@ -5110,9 +5110,9 @@
     "restore": {
       "projectUniqueName": "UiPath Jenkins CICD Demo",
       "projectName": "UiPath Jenkins CICD Demo",
-      "projectPath": "C:\\Users\\awsrp\\Documents\\mytest\\UiPath_Jenkins_CICDDemo-master\\.local",
+      "projectPath": "C:\\Users\\awsrp\\Documents\\newtest\\UiPath_Jenkins_CICDDemo-master\\.local",
       "packagesPath": "C:\\Users\\awsrp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awsrp\\Documents\\mytest\\UiPath_Jenkins_CICDDemo-master\\.local"
+      "outputPath": "C:\\Users\\awsrp\\Documents\\newtest\\UiPath_Jenkins_CICDDemo-master\\.local"
     },
     "frameworks": {
       "net461": {
