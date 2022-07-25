@@ -5104,15 +5104,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\awsrp\\.nuget\\packages\\": {}
+    "C:\\Users\\a\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "UiPath Jenkins CICD Demo",
       "projectName": "UiPath Jenkins CICD Demo",
-      "projectPath": "C:\\Users\\awsrp\\Documents\\newtest\\UiPath_Jenkins_CICDDemo-master\\.local",
-      "packagesPath": "C:\\Users\\awsrp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awsrp\\Documents\\newtest\\UiPath_Jenkins_CICDDemo-master\\.local"
+      "projectPath": "C:\\Users\\a\\Documents\\UiPath\\one\\.local",
+      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a\\Documents\\UiPath\\one\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5138,7 +5138,7 @@
             "version": "[20.10.6, 20.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\awsrp\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\a\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
